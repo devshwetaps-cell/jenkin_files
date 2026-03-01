@@ -1,0 +1,12 @@
+
+Every repository should have a `README.md`.
+
+---
+
+# 📌 2️⃣ For Python Project
+
+### ✅ requirements.txt
+
+```text
+flask==2.3.2
+requests==2.31.0
